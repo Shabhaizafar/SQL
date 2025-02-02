@@ -1,0 +1,20 @@
+1. Retrieve customers whose credit limit is greater than 80,000 **AND** located in 'New York, NY'.  
+2. Retrieve customers whose credit limit is less than 60,000 **OR** located in 'California'.  
+3. Find customers whose name starts with 'T' **AND** have a credit limit greater than 90,000.  
+4. Retrieve customers whose website contains 'tech' **OR** 'solutions'.  
+5. Retrieve customers with a credit limit **NOT** greater than 75,000.  
+6. Find customers whose credit limit is exactly **100000 - 5000**.  
+7. Retrieve customers with a credit limit greater than 50,000 **AND** less than 100,000.  
+8. Find customers whose name does **NOT** contain 'Corp'.  
+9. Retrieve customers with a credit limit equal to **(50000 + 25000)**.  
+10. Retrieve customers with a credit limit **NOT** equal to 60,000.  
+11. Find customers whose address contains 'Texas' **OR** 'Florida'.  
+12. Retrieve customers whose credit limit is greater than or equal to **90000 / 2**.  
+13. Find customers whose credit limit is less than **100000 AND** website contains 'enterprises'.  
+14. Retrieve customers whose credit limit is exactly **75000 * 2**.  
+15. Find customers whose credit limit is greater than **100000 - 20000** **AND** whose name starts with 'S'.  
+16. Retrieve customers whose name ends with 'Ltd' **OR** 'Inc'.  
+17. Retrieve customers who **DO NOT** have a website.  
+18. Find customers whose credit limit is **NOT** greater than 100,000.  
+19. Retrieve customers whose credit limit is **50000 + 20000** **OR** **100000 - 5000**.  
+20. Find customers whose credit limit is **(150000 / 3) AND** name starts with 'P'.  
