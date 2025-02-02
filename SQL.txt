@@ -1,0 +1,36 @@
+Programing Language : 
+	C,CPP,JAVA...etc
+
+Computer : (Binary/Machine code)
+
+
+=> DB (Database): 
+A database is an organized collection of data that is stored and managed to allow easy access, retrieval, and use. Databases are designed to handle large amounts of information efficiently, enabling users to store, manage, and retrieve data for various purposes. They are widely used in applications ranging from personal data storage to large-scale enterprise systems.
+
+	I.  Relational Database  (Table)(Structure)
+		- SQL
+		- MySQL 
+
+	II. Non-Relational Database 
+		- MONGODB
+
+=> DBMS(Database Management System).
+-> it is a Software Application 
+-> A Database Management System (DBMS) is software that enables users to create, manage, and interact with databases. It provides the tools and functionality needed to store, retrieve, update, and manage data efficiently while ensuring security, consistency, and reliability.
+
+=> SQL :- 
+Structured Query Language.
+
+
+=> CRUD Operations:-
+
+	- Create  (create a new Account)
+	- Read	  (Find >> DB >> data)
+	- Update  (Data Change)
+	- Delete  (Data remove)	
+
+
+
+
+
+
